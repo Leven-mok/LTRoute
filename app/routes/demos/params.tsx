@@ -15,7 +15,7 @@ export default function Boundaries() {
         <h2>Click these Links</h2>
         <ul>
           <li>
-            <Link to=".">Start over</Link>
+            <Link to=".">Let Start!</Link>
           </li>
           <li>
             <Link to="one">
@@ -34,7 +34,7 @@ export default function Boundaries() {
             <Link to="shh-its-a-secret">And this will be 401 Unauthorized</Link>
           </li>
           <li>
-            <Link to="kaboom">This one will throw an error</Link>
+            <Link to="kaboom">Will Lead Erorr K1a Page</Link>
           </li>
         </ul>
       </aside>
